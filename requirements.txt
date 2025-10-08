@@ -1,8 +1,8 @@
-streamlit>=1.28.0
-opencv-python>=4.8.0
-pillow>=10.0.0
-numpy>=1.24.0
-torch>=2.0.0
-ultralytics>=8.0.0
-pyyaml>=6.0
-torchvision>=0.15.0
+streamlit==1.50.0
+torch==2.8.0
+torchvision==0.23.0
+opencv-python-headless==4.12.0.88  # 使用无头版本
+Pillow==11.3.0
+numpy==2.2.6
+PyYAML==6.0.3
+ultralytics==8.3.207
